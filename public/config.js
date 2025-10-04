@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, crypto, trading, defi, orderly, perps, hyperliquid, aster, orderly, order, btc, eth, pump, CZ, dragonfly, selini, rabby, metamask, blockchain, binance, bybit, deribit, bitmex, KOL, backpack, flood, hype, solana, trezor, gridplus, salsatekila, pnl, water, gum, coffee, gmail, winning, trump, regulation, table, bed, frame, cottage, land, buy, sell, long, short, stop, stoploss, IOC, iceberg, TWAP, insillico, coinroutes, Talos, buildalpha, cup, mug",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "2",
   "VITE_TRADING_VIEW_COLOR_CONFIG": ""
 };
